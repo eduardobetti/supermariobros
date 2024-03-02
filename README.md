@@ -1,4 +1,4 @@
-<h1>:mushroom: Encanadores Mario Bros :mushroom: </h1>
+<h1>:mushroom: Encanadores Mario & Luigi :mushroom: </h1>
 <br>
 
 <img src="./img/mockup.png" alt="mockup">
@@ -21,4 +21,4 @@
 <h2>Curiosidades:</h2>
 
 <p>Neste projeto aprendi a utilizar a função onclick(), que foi amplamente utilizada em alguns projetos posteriores.</p>
-<p>Este foi o primeiro projeto que fiz após me tornar aluno do Dev Club</p>
+<p>Este foi o primeiro projeto que fiz após me tornar aluno do Dev Club.</p>
